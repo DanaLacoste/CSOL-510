@@ -14,6 +14,19 @@ docker completely (aside from the base VM, which we will get to below) and conta
 become quite popular in most corporations: learning how to do it this way can help your understanding
 of modern IT departments, but it _is_ different from what the CSOL-510 docs say to do.
 
+## Step 0 : What is it we are doing here anyways?
+
+The assignments in here are taken from Seed Labs.  Seed Labs is pretty much open source, available to anyone.
+
+Let's grab the Seed Labs material before we continue!
+
+- Source Code: [Seed Labs](https://github.com/seed-labs/seed-labs)
+- Download: `git clone https://github.com/seed-labs/seed-labs.git`
+- If you don't have git:
+  - On Linux: `apt-get install git`
+  - On Mac: Install xtools, then the xtools CLI utilities
+  - On Windows: [Git for Windows](https://git-scm.com/download/win)
+
 ## Step 1 : Base OS
 
 ### Linux

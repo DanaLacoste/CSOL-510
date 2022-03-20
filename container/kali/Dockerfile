@@ -17,9 +17,9 @@ RUN apt-get update && apt install -y kali-linux-headless
 
 WORKDIR /CSOL-510
 
-# Tools from the Seed Labs assignments
+# Tools from the Seed Labs assignments and reference tools
 
-RUN apt-get install -y bsdextrautils ent
+RUN apt-get install -y bsdextrautils ent man-db
 
 RUN git clone https://github.com/seed-labs/seed-labs.git
 

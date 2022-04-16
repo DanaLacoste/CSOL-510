@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="79 98 953 575" width="953" height="575">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" fill="none" stroke="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_23">
+        <rect x="80" y="107" width="161" height="292" fill="white"/>
+        <rect x="80" y="107" width="161" height="292" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(85 112)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="23.364" y="15">External Users</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <title>Large Group</title>
+        <rect x="127.5" y="156" width="66" height="64" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image1.pdf" width="33" height="32" transform="translate(127.5 156) scale(2)"/>
+        </g>
+        <text transform="translate(121.38 215.752)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="7958079e-19" y="15">Customers</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <title>Large Group</title>
+        <rect x="127.5" y="276" width="66" height="64" id="path_2"/>
+        <clipPath id="clip_path_2">
+          <use xl:href="#path_2"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_2)">
+          <image xl:href="image1.pdf" width="33" height="32" transform="translate(127.5 276) scale(2)"/>
+        </g>
+        <text transform="translate(126.724 335.752)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15">Providers</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <title>Cloud</title>
+        <desc>Network e.g. Internet
+</desc>
+        <rect x="242" y="478" width="86" height="54.466667" id="path_3"/>
+        <clipPath id="clip_path_3">
+          <use xl:href="#path_3"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_3)">
+          <image xl:href="image3.pdf" width="30" height="19" transform="translate(242 478) scale(2.8666667)"/>
+        </g>
+        <text transform="translate(257.592 536.252)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15">Internet</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <title>WI-FI Router</title>
+        <rect x="529.35444" y="431" width="71.68" height="64" id="path_4"/>
+        <clipPath id="clip_path_4">
+          <use xl:href="#path_4"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_4)">
+          <image xl:href="image6.pdf" width="28" height="25" transform="translate(529.35444 431) scale(2.56)"/>
+        </g>
+        <text transform="translate(518.37844 491.504)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="16.744" y="15">Wireless</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="7105427e-19" y="33.448">Access Point</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <title>Web Server</title>
+        <rect x="517" y="276" width="80.32258" height="83" id="path_5"/>
+        <clipPath id="clip_path_5">
+          <use xl:href="#path_5"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_5)">
+          <image xl:href="image7.pdf" width="30" height="31" transform="translate(517 276) scale(2.6774194)"/>
+        </g>
+        <text transform="translate(530.0573 366.904)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.112" y="15">Web</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448">Servers</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <title>Network Hub or Switch</title>
+        <rect x="523" y="548.46667" width="84.38889" height="49" id="path_6"/>
+        <clipPath id="clip_path_6">
+          <use xl:href="#path_6"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_6)">
+          <image xl:href="image10.pdf" width="31" height="18" transform="translate(523 548.46667) scale(2.7222222)"/>
+        </g>
+        <text transform="translate(533.03444 592.3207)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="16.312" y="15">VPN</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448">Endpoint</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <title>Head Office Site</title>
+        <rect x="791" y="453" width="73.14286" height="64" id="path_7"/>
+        <clipPath id="clip_path_7">
+          <use xl:href="#path_7"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_7)">
+          <image xl:href="image11.pdf" width="32" height="28" transform="translate(791 453) scale(2.2857143)"/>
+        </g>
+        <text transform="translate(791.4274 513.504)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="22737368e-20" y="15">Corporate</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6.08" y="33.448">Network</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <title>Firewall</title>
+        <rect x="377" y="285.5" width="82.66667" height="64" id="path_8"/>
+        <clipPath id="clip_path_8">
+          <use xl:href="#path_8"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_8)">
+          <image xl:href="image12.pdf" width="31" height="24" transform="translate(377 285.5) scale(2.6666667)"/>
+        </g>
+        <text transform="translate(391.23733 346.004)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="7.088" y="15">Outer</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448">Firewall</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <title>Firewall</title>
+        <rect x="660" y="285.5" width="82.66667" height="64" id="path_9"/>
+        <clipPath id="clip_path_9">
+          <use xl:href="#path_9"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_9)">
+          <image xl:href="image12.pdf" width="31" height="24" transform="translate(660 285.5) scale(2.6666667)"/>
+        </g>
+        <text transform="translate(674.2373 346.004)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="9.168" y="15">Inner</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448">Firewall</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <title>Database Server</title>
+        <rect x="856" y="178" width="68.26667" height="64" id="path_10"/>
+        <clipPath id="clip_path_10">
+          <use xl:href="#path_10"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_10)">
+          <image xl:href="image13.pdf" width="32" height="30" transform="translate(856 178) scale(2.1333333)"/>
+        </g>
+        <text transform="translate(841.3893 138.2)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="16.296" y="15">User and</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5968559e-19" y="33.448">Provider Data</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <title>Database Server</title>
+        <rect x="961" y="453" width="68.26667" height="64" id="path_11"/>
+        <clipPath id="clip_path_11">
+          <use xl:href="#path_11"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_11)">
+          <image xl:href="image13.pdf" width="32" height="30" transform="translate(961 453) scale(2.1333333)"/>
+        </g>
+        <text transform="translate(958.9893 513.504)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="22737368e-20" y="15">Corporate</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="19.4" y="33.448">Data</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <title>Database Server</title>
+        <rect x="561.0559" y="138" width="68.26667" height="64" id="path_12"/>
+        <clipPath id="clip_path_12">
+          <use xl:href="#path_12"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_12)">
+          <image xl:href="image13.pdf" width="32" height="30" transform="translate(561.0559 138) scale(2.1333333)"/>
+        </g>
+        <text transform="translate(567.77325 98.2)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1.016" y="15">Off-site</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="33.448">Backup</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <title>Green User</title>
+        <rect x="134.42593" y="575" width="52.14815" height="64" id="path_13"/>
+        <clipPath id="clip_path_13">
+          <use xl:href="#path_13"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_13)">
+          <image xl:href="image15.pdf" width="22" height="27" transform="translate(134.42593 575) scale(2.3703704)"/>
+        </g>
+        <text transform="translate(121.084 635.504)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="15">Employees</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="7.264" y="33.448">(Remote)</tspan>
+        </text>
+      </g>
+      <g id="Line_24">
+        <line x1="241" y1="399" x2="269.9321" y2="468.8535" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_25">
+        <line x1="186.57407" y1="585.687" x2="244.018" y2="538.73214" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_26">
+        <line x1="328" y1="515.628" x2="513.3772" y2="560.4405" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="304.34186" y1="478" x2="389.8735" y2="357.57143" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_28">
+        <line x1="459.66667" y1="317.5" x2="507.1" y2="317.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_29">
+        <line x1="597.3226" y1="317.5" x2="650.1" y2="317.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_30">
+        <line x1="742.6667" y1="293.9654" x2="847.3968" y2="234.33355" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="725.4505" y1="349.5" x2="797.4958" y2="445.0939" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="834.8514" y1="453" x2="880.6573" y2="251.65335" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_33">
+        <line x1="864.1429" y1="485" x2="951.1" y2="485" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_34">
+        <line x1="607.3889" y1="558.8202" x2="781.6135" y2="500.40823" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_35">
+        <line x1="595.13564" y1="431" x2="664.6282" y2="356.72904" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

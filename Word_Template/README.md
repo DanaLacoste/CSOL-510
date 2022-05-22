@@ -8,7 +8,7 @@ There is a Microsoft Word Template which will do all of the ugly formatting _and
 
 So, you're enrolled in a course where you are required to submit homework in APA format?  No fear, if you want to use Microsoft Word, you can do this easily!
 
-(Yes, Google Docs has something similar, you should read the Google Docs version of this guide for more info)
+(Yes, Google Docs has something similar, you should read the [Google Docs version of this guide](../Google_Docs_Template/) for more info)
 
 ## Step 1 - Get the Template
 
@@ -76,3 +76,9 @@ You can even store your citations between documents and import them into future 
 All you have to do is double click in your text on a citation and it will insert a reference right there, in the right format.  When you get to the end of the doc, you can just "Update References" (the same way you would update a Table of contents) and it will auto-populate the whole section!  EASY PEASY MAC AND CHEESEY!
 
 ![Update References](screenshots/11_Update_References.png)
+
+## Special Considerations - Group Work
+
+If you are doing a group assignment, you can create a folder in OneDrive and share it with the rest of your group.  Then you can upload whatever supporting documents you need and even access it using the Web version of Microsoft Word.  You can even hit "Open in Desktop Application" from the Web version to get full access to the tools described in this guide.
+
+Note that it is 2022 and Microsoft _still_ hasn't figured out multi-user editing, though, so if two people are updating the document at the same time, they WILL overwrite each other's changes!
